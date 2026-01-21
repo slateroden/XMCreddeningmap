@@ -37,7 +37,7 @@ Oden, S. J., et al. 2025, "Warped & Hooked: Mapping the Magellanic Clouds in 3D 
 
 and the Zenodo DOI for this repository:
 
-DOI: [Zenodo DOI will be inserted here after publication]
+DOI: 10.5281/zenodo.18330362
 
 ## License
 
