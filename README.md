@@ -47,6 +47,6 @@ This repository is released under the MIT License.
 
 Slater Oden
 Montana State University
-slater.oden@montana.edu
+slateroden@montana.edu
 
 
